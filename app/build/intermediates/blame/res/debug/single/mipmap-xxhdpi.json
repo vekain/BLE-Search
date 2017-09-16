@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/BLE_search/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/vikash_parashar/Android/AndroidStudioProjects/BLE_search/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vikash_parashar/Android/AndroidStudioProjects/BLE_search/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/vikash_parashar/Android/AndroidStudioProjects/BLE_search/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
